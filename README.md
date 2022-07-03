@@ -5,7 +5,7 @@
 When installing python3 in containerlab container (for MAC, you need to run containerlab in a container),
 
 add external access
-
+iptables -vnL DOCKER-USER
 
 To install nornir etc,
 
